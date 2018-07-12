@@ -1,8 +1,15 @@
 #include<stdio.h>
 
+int sub(int,int);
+
 void main()
 {
 	cout<<"Hello World...!";
-	c = a+b;
-	cout<<"c="<<c;
+	cout<<"subtraction:"<<sub(a,b);
+
+}
+
+int sub(int a,int b)
+{
+	return a-b;
 }
