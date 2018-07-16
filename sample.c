@@ -9,6 +9,8 @@ void main()
 	printf("Hello World");
 	printf("Addtion:%d",add(1,2));
 	printf("Multiplication:%d",multi(1,2));
+	printf("Division:%d",division(1,2));
+
 }
 
 int add(int a,int b)
