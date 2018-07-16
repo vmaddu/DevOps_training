@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int add(int,int);
-
+int division(int,int);
 void main()
 {
 	printf("Hello World");
@@ -11,4 +11,9 @@ void main()
 int add(int a,int b)
 {
 	return a+b;
+}
+
+int division(int a,int b)
+{
+	return a/b;
 }
