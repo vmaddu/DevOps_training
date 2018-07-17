@@ -1,3 +1,5 @@
 Good Bye Git Merge
 GOOD DAY
 GOOD MORINING
+Good Afternoon
+Good Evening
